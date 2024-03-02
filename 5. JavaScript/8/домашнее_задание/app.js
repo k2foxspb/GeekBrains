@@ -1,5 +1,6 @@
 'use strict';
 
+
 let fitlerPopup = document.querySelector('.filterPopup');
 let fitlerLabel = document.querySelector('.filterLabel');
 let filterIcon = document.querySelector('.filterIcon');
